@@ -1,4 +1,5 @@
-vendor/*
+solutions/v3/vendor/*
 
 .php_cs.cache
 .phpunit.result.cache
+.DS_Store
